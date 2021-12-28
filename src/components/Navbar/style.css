@@ -1,0 +1,33 @@
+li{
+    display: inline;
+    font-size: 20px;
+}
+
+ul{
+    align-items: center;
+}
+
+.imgLogo{
+    height: 70px;
+    width: 350px;
+}
+
+.buscador{
+    align-items: center;
+    margin: auto 0 auto auto;
+}
+
+header{
+    background-color: #eee;
+    padding: 15px;
+}
+
+input, button{
+    height: 50px;
+    padding: 10px;
+}   
+
+.menuItem{
+    text-decoration: none;
+    color: black;
+}
