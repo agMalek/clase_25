@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/clase_25/static/css/main.3eaae78d.chunk.css",
-    "main.js": "/clase_25/static/js/main.20c2bdcd.chunk.js",
-    "main.js.map": "/clase_25/static/js/main.20c2bdcd.chunk.js.map",
-    "runtime-main.js": "/clase_25/static/js/runtime-main.ddd02db4.js",
-    "runtime-main.js.map": "/clase_25/static/js/runtime-main.ddd02db4.js.map",
-    "static/css/2.4be38407.chunk.css": "/clase_25/static/css/2.4be38407.chunk.css",
-    "static/js/2.86827547.chunk.js": "/clase_25/static/js/2.86827547.chunk.js",
-    "static/js/2.86827547.chunk.js.map": "/clase_25/static/js/2.86827547.chunk.js.map",
-    "index.html": "/clase_25/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/clase_25/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.3eaae78d.chunk.css.map": "/clase_25/static/css/main.3eaae78d.chunk.css.map",
-    "static/js/2.86827547.chunk.js.LICENSE.txt": "/clase_25/static/js/2.86827547.chunk.js.LICENSE.txt",
-    "static/media/carrousel-1.9b34cf9c.jpg": "/clase_25/static/media/carrousel-1.9b34cf9c.jpg",
-    "static/media/carrousel-2.fd912352.jpg": "/clase_25/static/media/carrousel-2.fd912352.jpg",
-    "static/media/carrousel-3.424560c4.jpg": "/clase_25/static/media/carrousel-3.424560c4.jpg"
+    "main.css": "/clase_28/static/css/main.1741b45a.chunk.css",
+    "main.js": "/clase_28/static/js/main.2e2e8d85.chunk.js",
+    "main.js.map": "/clase_28/static/js/main.2e2e8d85.chunk.js.map",
+    "runtime-main.js": "/clase_28/static/js/runtime-main.c15a78bd.js",
+    "runtime-main.js.map": "/clase_28/static/js/runtime-main.c15a78bd.js.map",
+    "static/css/2.4be38407.chunk.css": "/clase_28/static/css/2.4be38407.chunk.css",
+    "static/js/2.c17bf065.chunk.js": "/clase_28/static/js/2.c17bf065.chunk.js",
+    "static/js/2.c17bf065.chunk.js.map": "/clase_28/static/js/2.c17bf065.chunk.js.map",
+    "index.html": "/clase_28/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/clase_28/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.1741b45a.chunk.css.map": "/clase_28/static/css/main.1741b45a.chunk.css.map",
+    "static/js/2.c17bf065.chunk.js.LICENSE.txt": "/clase_28/static/js/2.c17bf065.chunk.js.LICENSE.txt",
+    "static/media/carrousel-1.9b34cf9c.jpg": "/clase_28/static/media/carrousel-1.9b34cf9c.jpg",
+    "static/media/carrousel-2.fd912352.jpg": "/clase_28/static/media/carrousel-2.fd912352.jpg",
+    "static/media/carrousel-3.424560c4.jpg": "/clase_28/static/media/carrousel-3.424560c4.jpg",
+    "static/media/educacion.a5b69512.jpg": "/clase_28/static/media/educacion.a5b69512.jpg",
+    "static/media/nocheDeBrujas.f63aa866.jpg": "/clase_28/static/media/nocheDeBrujas.f63aa866.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddd02db4.js",
+    "static/js/runtime-main.c15a78bd.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.86827547.chunk.js",
-    "static/css/main.3eaae78d.chunk.css",
-    "static/js/main.20c2bdcd.chunk.js"
+    "static/js/2.c17bf065.chunk.js",
+    "static/css/main.1741b45a.chunk.css",
+    "static/js/main.2e2e8d85.chunk.js"
   ]
 }
