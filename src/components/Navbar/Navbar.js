@@ -1,6 +1,7 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Logo from "../../img/header-simpsons.gif"
-import './style.css'
+import './Navbar.css'
 
 class Navbar extends React.Component {
     constructor(props) {
@@ -13,9 +14,9 @@ class Navbar extends React.Component {
                 <nav className="d-flex">
                     <img src={Logo} alt="Logo" className="imgLogo" />
                     <ul className="d-flex ">
-                        <li className="px-2"><a className="menuItem" href="#">Inicio</a></li>
-                        <li className="px-2"><a className="menuItem" href="#">Blog</a></li>
-                        <li className="px-2"><a className="menuItem" href="#">Contacto</a></li>
+                        <li className="px-2"><Link className="menuItem" to="/">Inicio</Link></li>
+                        <li className="px-2"><Link className="menuItem" to="blog">Blog</Link></li>
+                        <li className="px-2"><Link className="menuItem" to="contact">Contacto</Link></li>
                     </ul>
                     {/* <form>
                         <input type="text" placeholder="Search" />

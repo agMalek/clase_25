@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './style.css'
+import './Card.css'
 
 class Card extends React.Component {
     constructor(props) {

@@ -1,5 +1,5 @@
 import React from "react";
-import './style.css'
+import './Footer.css'
 
 class Footer extends React.Component {
     constructor(props) {
@@ -8,8 +8,8 @@ class Footer extends React.Component {
     }
     render() { 
         return ( 
-            <div>
-                <p className="text-center py-4">Hecho por programa desde tu casa</p>
+            <div >
+                <p className="text-center py-3">Hecho por programa desde tu casa</p>
             </div>
          );
     }

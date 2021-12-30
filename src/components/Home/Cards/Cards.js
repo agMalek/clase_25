@@ -1,9 +1,9 @@
 import React from "react";
 
-import Maggie from "../../img/maggie.jpg"
-import Homero from "../../img/homer.jpg"
-import Bart from "../../img/bart.jpg"
-import './style.css'
+import Maggie from "../../../img/maggie.jpg"
+import Homero from "../../../img/homer.jpg"
+import Bart from "../../../img/bart.jpg"
+import './Cards.css'
 import Card from "./Card/Card";
 
 

@@ -1,0 +1,14 @@
+.contenedorContact{
+    width: 100vw;
+    height: 450px;
+    background-color: rgb(207,204,47);
+    display: flex;
+    justify-content: center;
+}
+
+.formContact{
+    background-color: #fff;
+    margin: 30px;
+    padding: 35px 50px;
+    width: 50%;
+}

@@ -1,8 +1,8 @@
 import React from "react";
-import Img1 from "../../img/carrousel-1.jpg"
-import Img2 from "../../img/carrousel-2.jpg"
-import Img3 from "../../img/carrousel-3.jpg"
-import './style.css'
+import Img1 from "../../../img/carrousel-1.jpg"
+import Img2 from "../../../img/carrousel-2.jpg"
+import Img3 from "../../../img/carrousel-3.jpg"
+import './Homersapien.css'
 
 
 class Homersapien extends React.Component {

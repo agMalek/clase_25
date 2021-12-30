@@ -10,3 +10,8 @@
 .imgHomero{
     height: 600px;
 }
+
+.botonesCarrousel{
+    display: flex;
+    align-items: flex-end;
+}
